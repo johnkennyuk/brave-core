@@ -30,7 +30,7 @@
 BraveIdentityManagerFactory::BraveIdentityManagerFactory()
     : IdentityManagerFactory() {}
 
-BraveIdentityManagerFactory::~BraveIdentityManagerFactory() = default;
+BraveIdentityManagerFactory::~BraveIdentityManagerFactory() {}
 
 // static
 signin::BraveIdentityManager* BraveIdentityManagerFactory::GetForProfile(
