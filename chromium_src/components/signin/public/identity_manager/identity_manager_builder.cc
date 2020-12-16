@@ -7,7 +7,6 @@
 
 #include "brave/components/signin/internal/identity_manager/brave_primary_account_mutator_impl.h"
 #include "brave/components/signin/public/identity_manager/brave_identity_manager.h"
-#include "brave/components/signin/public/identity_manager/brave_identity_manager_builder.h"
 
 namespace signin {
 
